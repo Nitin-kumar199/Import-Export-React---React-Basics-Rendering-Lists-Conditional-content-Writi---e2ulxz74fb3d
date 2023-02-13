@@ -5,7 +5,7 @@ import { SubHeading } from "./SubHeading.js";
 import { InputQuery } from "./InputQuery.js";
 import { SubmitButton } from "./SubmitButton.js";
 
-const App = () => {
+export default const App = () => {
   return (
     <div id="main">
       <Heading />
